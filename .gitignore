@@ -136,3 +136,6 @@ __azurite_db*__.json
 
 # VSCode settings
 .vscode/*
+function_app.py
+thunder-tests/thunderActivity.json
+thunder-tests/thunderEnvironment.json

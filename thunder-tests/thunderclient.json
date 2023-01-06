@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "f08cd9b0-d764-41da-9e8b-cbce00bde1b7",
+    "colId": "3c7bab1d-ce16-48fd-b7d8-00f69ed76797",
+    "containerId": "",
+    "name": "Base Redirect",
+    "url": "/https://mas.to/@moof/109642947257051795",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-01-06T18:46:26.804Z",
+    "modified": "2023-01-06T18:49:28.051Z",
+    "headers": [],
+    "params": [],
+    "tests": [
+      {
+        "type": "res-code",
+        "custom": "",
+        "action": "equal",
+        "value": "302"
+      }
+    ]
+  }
+]

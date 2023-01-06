@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "3c7bab1d-ce16-48fd-b7d8-00f69ed76797",
+    "colName": "Test Redirect",
+    "created": "2023-01-06T18:44:46.612Z",
+    "sortNum": 10000,
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "options": {
+        "baseUrl": "{{base_url}}"
+      }
+    }
+  }
+]
