@@ -8,8 +8,13 @@
     "method": "GET",
     "sortNum": 10000,
     "created": "2023-01-06T18:46:26.804Z",
-    "modified": "2023-01-06T18:49:28.051Z",
-    "headers": [],
+    "modified": "2023-01-06T21:45:08.205Z",
+    "headers": [
+      {
+        "name": "Cookie",
+        "value": "input_requests_remaining=0; max-age=5184000; domain=; path=; secure; samesite=strict; httponly"
+      }
+    ],
     "params": [],
     "tests": [
       {
